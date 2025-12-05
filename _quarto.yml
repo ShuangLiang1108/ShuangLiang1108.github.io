@@ -11,37 +11,27 @@ execute:
   warning: false
 
 website:
-  title: "Kazuharu Yanagimoto"
+  title: "Shuang Liang"
   favicon: static/img/favicon.drawio.svg
-  site-url: https://kazuyanagimoto.com
-  repo-url: https://github.com/kazuyanagimoto/kazuyanagimoto.github.io
-  google-analytics: "G-EX523L4LWJ"
-  twitter-card:
-    creator: "@kazuyanagimoto"
-    site: "@kazuyanagimoto"
+  site-url: https://ShuangLiang1108.github.io
+  repo-url: https://github.com/ShuangLiang1108/ShuangLiang1108.github.io
   open-graph: true
   navbar:
     right:
       - text: About
         file: about/index.qmd
-      - text: Teaching
-        file: teaching/index.qmd
       - text: Research
         file: research/index.qmd
-      - text: Software
-        file: software/index.qmd
-      - text: Blog
-        file: blog/index.qmd
+      - text: Teaching
+        file: teaching/index.qmd
       - text: CV
-        href: https://kazuyanagimoto.com/cv/cv.pdf
-      - text: Talks
-        file: talks/index.qmd
+        href: /static/cv/cv.pdf
   page-footer:
     left: |
-      <span class="faux-block">{{< fa copyright >}} 2021 Kazuharu Yanagimoto</span>
+      <span class="faux-block">{{< fa copyright >}} 2025 Shuang Liang</span>
       <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
     center: |
-      <span class="faux-block">[{{< fa brands github >}}]({{< var github-url >}}) [{{< fa brands x-twitter >}}]({{< var twitter-url >}}) [{{< iconify simple-icons bluesky >}}]({{< var bluesky-url >}}) [{{< fa brands linkedin >}}]({{< var linkedin-url >}}) [{{< iconify simple-icons zenn >}}]({{< var zenn-url >}})</span>
+      <span class="faux-block">[{{< fa brands github >}}]({{< var github-url >}})</span>
     right: |
       <span class="faux-block">Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)</span>
       <span class="faux-block">View the source at [{{< fa brands github >}} GitHub]({{< var repo-url >}})</span>

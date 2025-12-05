@@ -1,6 +1,6 @@
 ---
 title: Research
-description: This section contains my ongoing research
+description: This section contains my English peer-reviewed publications
 home: true
 listing:
   - id: projects

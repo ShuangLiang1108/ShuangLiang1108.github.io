@@ -1,26 +1,17 @@
 ---
-title: "Kazuharu Yanagimoto"
-image: /static/img/profile.jpg
+title: "Shuang Liang"
+image: /static/img/profile2.png
 about:
   template: jolla
   links:
     - icon: github
       text: GitHub
-      href: https://github.com/kazuyanagimoto
-    - icon: twitter-x
-      text: X
-      href: https://twitter.com/kazuyanagimoto
-    - text: "{{< iconify simple-icons bluesky >}} Bluesky"
-      href: https://bsky.app/profile/kazuyanagimoto.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/kazuharu-yanagimoto/
-    - text: "{{< iconify simple-icons zenn >}} Zenn"
-      href: https://zenn.dev/nicetak
+      href: https://github.com/ShuangLiang1108
+
 ---
 
-I am an associate professor (tenure track) at [Kobe University](https://www.econ.kobe-u.ac.jp/en/).<br>
-My research fields are labor, macro, and especially family economics.
+I am a Phd Candidate at [Peking University](https://english.pku.edu.cn/).<br>
+My research focuses on TechFin, FinTech, and RegTech.
 
 ::: {style="text-align: right"}
 [Read More →](../about)

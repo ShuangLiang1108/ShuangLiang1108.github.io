@@ -1,0 +1,52 @@
+---
+title: Bank Competition, Market Concentration and Innovation
+subtitle: Insights from China’s Patent Pledge Financing Policy
+date: 2025-05-20
+authors:
+  - name: Shuang Liang
+    url: "{{< var website-url >}}"
+    orcid: "{{< var orcid >}}"
+    affiliation: Peking University
+    email: "{{< var email >}}"
+categories:
+  - Patent pledge financing
+  - Bank competition
+  - Firm innovation
+status: working-papers
+pub-info:
+  journal: Finance Research Letters
+  volume: 82
+  pages: 107590
+  year: 2025
+  links:
+    - name: ScienceDirect
+      url: https://www.sciencedirect.com/science/article/pii/S1544612325008499
+      icon: fa-solid fa-file-pdf
+    - name: RePEc
+      url: https://econpapers.repec.org/RePEc:eee:finlet:v:82:y:2025:i:c:s1544612325008499
+      icon: fa-solid fa-link
+  coauthor: Solo-authored paper
+pub-status: 
+  status: Published
+  class: success
+  icon: fa-solid fa-check
+---
+
+## Abstract
+
+This study evaluates the impact of China’s patent pledge financing pilot policy on firm innovation using data from A-share listed manufacturing firms between 2003 and 2022. The findings indicate that the policy significantly enhances innovation quantity, especially among firms constrained by financing. Innovation quality is improved most in areas with low bank competition and high market concentration. Our analysis also identifies variations in the policy’s impact across firm lifecycles, city sizes, and development levels, highlighting its relevance to policy refinement within the treatment effect framework in market equilibrium.
+
+## BibTeX citation
+
+```bibtex
+@article{Liang_2025,
+  title   = {Bank competition, market concentration and innovation: Insights from China's patent pledge financing policy},
+  author  = {Liang, Shuang},
+  journal = {Finance Research Letters},
+  volume  = {82},
+  pages   = {107590},
+  year    = {2025},
+  doi     = {10.1016/j.frl.2025.107590},
+}
+
+```

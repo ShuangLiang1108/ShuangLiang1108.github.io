@@ -17,3 +17,6 @@ toc-title: Academic Year
 ::: {#ay_25-26}
 :::
 
+::: {style="margin-top: 1rem;"}
+Teaching information will be added soon.
+:::

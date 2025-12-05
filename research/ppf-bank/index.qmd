@@ -9,10 +9,11 @@ authors:
     affiliation: Peking University
     email: "{{< var email >}}"
 categories:
-  - Patent pledge financing
-  - Bank competition
+  - TechFin
   - Firm innovation
-status: working-papers
+status: publications
+image: fig.png
+feature: true
 pub-info:
   journal: Finance Research Letters
   volume: 82
@@ -35,6 +36,14 @@ pub-status:
 ## Abstract
 
 This study evaluates the impact of China’s patent pledge financing pilot policy on firm innovation using data from A-share listed manufacturing firms between 2003 and 2022. The findings indicate that the policy significantly enhances innovation quantity, especially among firms constrained by financing. Innovation quality is improved most in areas with low bank competition and high market concentration. Our analysis also identifies variations in the policy’s impact across firm lifecycles, city sizes, and development levels, highlighting its relevance to policy refinement within the treatment effect framework in market equilibrium.
+
+## Important Figure
+
+::: {layout-ncol="1"}
+
+![Figure 1: TE-ME scatterplot of effect estimates](fig.png){fig-align="center" width="80%"}
+
+:::
 
 ## BibTeX citation
 

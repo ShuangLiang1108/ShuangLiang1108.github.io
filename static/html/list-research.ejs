@@ -1,13 +1,13 @@
 ```{=html}
 <div class="list research">
+    <% items_pub = items.filter(item => item.status == "publications") %>
     <% items_wp = items.filter(item => item.status == "working-papers") %>
-    <% items_wip = items.filter(item => item.status == "work-in-progress") %>
-    <% for (const items of [items_wp, items_wip]) { %>
+    <% for (const items of [items_pub, items_wp]) { %>
         <% if (items.length > 0) { %>
-            <% if (items[0].status == "working-papers") { %>
-                <h2>WORKING PAPERS</h2>
+            <% if (items[0].status == "publications") { %>
+                <h2>PUBLICATIONS</h2>
             <% } else { %>
-                <h2>WORK IN PROGRESS</h2>
+                <h2>WORKING PAPERS</h2>
             <% } %>
             <% for (const item of items) { %>
                 <div class="research-entry" <%= metadataAttrs(item) %>>
@@ -23,7 +23,7 @@
                             <%= item.subtitle %>
                         </p>
                         <% if (item.authors) { %>
-                            <% coauthors = item.authors.filter(author => author.name != "Kazuharu Yanagimoto") %>
+                            <% coauthors = item.authors.filter(author => author.name != "Shuang Liang") %>
                             <% n_coauthors = coauthors.length %>
                             <p class="research-coauthors">
                                 with

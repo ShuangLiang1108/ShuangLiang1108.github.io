@@ -26,15 +26,15 @@ My research focuses on TechFin, FinTech, and RegTech. Broadly speaking, I am int
 - How does technological innovation reshape financial services and market structure?
 - Do technological advances (such as the use of AI) create new risks, and how should financial regulation respond?
 
-{{< fa graduation-cap >}} PhD Candidate in Finance  &#8729; Peking University  &#8729
+{{< fa graduation-cap >}} PhD Candidate in Finance  &#8729; Peking University &#8729; China
 
-{{< fa graduation-cap >}} Master in Economics  &#8729; LSE  &#8729
+{{< fa graduation-cap >}} Master in Economics  &#8729; The London School of Economics and Political Science (LSE) &#8729; UK
 
-{{< fa graduation-cap >}} Bachelor in Agricultural Economics  &#8729; Renmin University  &#8729
+{{< fa graduation-cap >}} Bachelor in Agricultural Economics  &#8729; Renmin University &#8729; China
 
 <br>
 
-## Published PAPERS
+## RESEARCH PAPERS
 
 :::{#research}
 :::

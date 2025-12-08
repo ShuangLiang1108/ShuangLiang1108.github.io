@@ -18,19 +18,19 @@ page-layout: full
 title-block-banner: true
 ---
 
-I am a PhD candidate in Finance at [Peking University](https://english.pku.edu.cn/).
+I am a Ph.D. candidate in Finance at [Peking University](https://english.pku.edu.cn/).
 
-My research focuses on TechFin, FinTech, and RegTech. Broadly speaking, I am interested in questions such as:
+My research focuses on TechFin, FinTech, and RegTech. Broadly, my work addresses three core questions:
 
 - How can financial systems more effectively support technological innovation?
 - How does technological innovation reshape financial services and market structure?
 - Do technological advances (such as the use of AI) create new risks, and how should financial regulation respond?
 
-{{< fa graduation-cap >}} PhD Candidate in Finance  &#8729; Peking University &#8729; China
+{{< fa graduation-cap >}} Ph.D. Candidate in Finance  &#8729; Peking University (PKU)  &#8729; China
 
-{{< fa graduation-cap >}} Master in Economics  &#8729; The London School of Economics and Political Science (LSE) &#8729; UK
+{{< fa graduation-cap >}} Master of Science in Economics  &#8729; The London School of Economics and Political Science (LSE) &#8729; UK
 
-{{< fa graduation-cap >}} Bachelor in Agricultural Economics  &#8729; Renmin University &#8729; China
+{{< fa graduation-cap >}} Bachelor of Arts in Agricultural Economics  &#8729; Renmin University of China (RUC) &#8729; China
 
 <br>
 
@@ -43,7 +43,7 @@ My research focuses on TechFin, FinTech, and RegTech. Broadly speaking, I am int
 [See All →](../research)
 :::
 
-## TEACHING THAT INSPIRES
+## TEACHING MATERIALS
 
 :::{#teaching}
 :::

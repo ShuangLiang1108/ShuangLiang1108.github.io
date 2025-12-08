@@ -10,7 +10,6 @@ authors:
     email: "{{< var email >}}"
 categories:
   - TechFin
-  - Firm innovation
 status: publications
 image: fig.png
 feature: true
@@ -26,7 +25,6 @@ pub-info:
     - name: RePEc
       url: https://econpapers.repec.org/RePEc:eee:finlet:v:82:y:2025:i:c:s1544612325008499
       icon: fa-solid fa-link
-  coauthor: Solo-authored paper
 pub-status: 
   status: Published
   class: success

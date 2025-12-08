@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://ShuangLiang1108.github.io/teaching/index.html</loc>
-    <lastmod>2025-12-05T12:56:13.989Z</lastmod>
+    <lastmod>2025-12-08T07:59:07.716Z</lastmod>
   </url>
   <url>
     <loc>https://ShuangLiang1108.github.io/software/index.html</loc>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://ShuangLiang1108.github.io/about/index.html</loc>
-    <lastmod>2025-12-05T22:39:34.794Z</lastmod>
+    <lastmod>2025-12-08T09:43:17.537Z</lastmod>
   </url>
   <url>
     <loc>https://ShuangLiang1108.github.io/blog/2022/12/27/quarto_tips/index.html</loc>
@@ -54,14 +54,34 @@
   </url>
   <url>
     <loc>https://ShuangLiang1108.github.io/index.html</loc>
-    <lastmod>2025-12-05T22:46:48.543Z</lastmod>
+    <lastmod>2025-12-08T07:21:20.619Z</lastmod>
   </url>
   <url>
     <loc>https://ShuangLiang1108.github.io/research/ppf-bank/index.html</loc>
-    <lastmod>2025-12-05T22:43:41.127Z</lastmod>
+    <lastmod>2025-12-08T09:45:09.680Z</lastmod>
   </url>
   <url>
     <loc>https://ShuangLiang1108.github.io/talks/index.html</loc>
     <lastmod>2025-12-05T08:36:04.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ShuangLiang1108.github.io/research/bank-ai/index.html</loc>
+    <lastmod>2025-12-08T09:23:26.740Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ShuangLiang1108.github.io/research/uri-collective/index.html</loc>
+    <lastmod>2025-12-08T09:24:19.817Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ShuangLiang1108.github.io/research/bank-fintech/index.html</loc>
+    <lastmod>2025-12-08T09:24:00.199Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ShuangLiang1108.github.io/research/industry-transfer/index.html</loc>
+    <lastmod>2025-12-08T09:24:07.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://ShuangLiang1108.github.io/research/vc-patience/index.html</loc>
+    <lastmod>2025-12-08T09:24:26.813Z</lastmod>
   </url>
 </urlset>

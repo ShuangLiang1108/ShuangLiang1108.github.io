@@ -1,0 +1,34 @@
+---
+title: Bridging the Great Divide
+subtitle: Collective Membership and Urban-Rural Integration
+date: 2025-05-24
+authors:
+  - name: Shuguang Wang
+    affiliation: Peking University
+  - name: Bin Zhang
+    affiliation: Peking University
+  - name: Shuang Liang
+    url: "{{< var website-url >}}"
+    orcid: "{{< var orcid >}}"
+    affiliation: Peking University
+    email: "{{< var email >}}"
+categories:
+  - Other
+status: working-papers
+image: fig1a.png
+feature: true
+---
+
+## Abstract
+
+Urban--rural disparities constitute a persistent challenge in economic development. This study examines China's Rural Collective Property Rights (RCPR) reform as an institutional shock affecting collective membership and asset governance. Using a balanced panel of 283 prefecture-level cities (2012--2022) and a Spatial Durbin difference-in-differences design, we demonstrate that the reform increases urban--rural integration (URI) locally while generating spatial spillovers. Dynamic estimates reveal strengthened local effects and delayed diffusion. Mechanisms align with a Coasean channel (accelerating land transfers) and a club-goods channel (increasing rural income). The reform may simultaneously exacerbate capital misallocation. Effects follow a hump-shaped pattern relative to government intervention, with stronger impacts where collective economies are larger. Situated at the intersection of New Institutional and Public Economics, this study provides spatial--institutional evidence for membership-based property rights fostering URI.
+
+## Important Figure
+
+::: {layout-ncol="2"}
+
+![Figure 6: Spatial threshold effects with government intervention](fig1a.png)
+
+![Figure 7: Spatial threshold effects with collective economy scale](fig1b.png)
+
+:::

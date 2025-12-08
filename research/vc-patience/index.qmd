@@ -1,0 +1,20 @@
+---
+title: Venture capital, investor patience, and corporate innovation
+date: 2025-05-23
+authors:
+  - name: Shuang Liang
+    url: "{{< var website-url >}}"
+    orcid: "{{< var orcid >}}"
+    affiliation: Peking University
+    email: "{{< var email >}}"
+  - name: Shuguang Wang
+    affiliation: Peking University
+categories:
+  - TechFin
+status: working-papers
+feature: true
+---
+
+## Abstract
+
+This study examines the impact of venture capital on corporate innovation performance and the moderating role of investor patience. We demonstrate that venture capital fosters innovation persistence and exploitative innovation while hindering exploratory innovation. These effects are attributed to potential mechanisms such as sustained capital support, governance improvement and resource synergy. Additionally, we show that investor patience -- reflected in investment modes like government involvement and syndication, as well as behavioral attributes such as long-term investment, post-investment stability, and failure tolerance -- amplifies the positive effects of venture capital and mitigates its negative impact on exploratory innovation. Our findings  provide novel insights into how patient capital contributes to innovation and how it can be institutionally cultivated.

@@ -7,11 +7,17 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/ShuangLiang1108
-
+    - icon: envelope
+      text: Email (PKU)
+      href: "mailto:liangs2021@econ.pku.edu.cn"
+    - icon: envelope
+      text: Email (Gmail)
+      href: "mailto:liangshuang1108@gmail.com"   
 ---
 
-I am a Phd Candidate at [Peking University](https://english.pku.edu.cn/).<br>
-My research focuses on TechFin, FinTech, and RegTech.
+I am a Ph.D. Candidate in Finance at [Peking University](https://english.pku.edu.cn/).<br>
+
+My primary research areas include TechFin, FinTech, and RegTech.
 
 ::: {style="text-align: right"}
 [Read More →](../about)

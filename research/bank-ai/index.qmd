@@ -1,0 +1,22 @@
+---
+title: Bank AI and Systemic Risk
+subtitle: Evidence on Macroprudential Limits
+date: 2025-11-20
+authors:
+  - name: Yangjingzhuo Liu
+    affiliation: Peking University
+  - name: Shuang Liang
+    url: "{{< var website-url >}}"
+    orcid: "{{< var orcid >}}"
+    affiliation: Peking University
+    email: "{{< var email >}}"
+categories:
+  - FinTech
+  - RegTech
+status: working-papers
+feature: true
+---
+
+## Abstract
+
+We study how AI development affects bank systemic risk. Using panel data on 176 Chinese commercial banks from 2014 to 2023, we find a trade-off: AI development lowers idiosyncratic risk but raises contagion risk, increasing banks' systemic risk contribution. Mechanism analysis shows that it erodes prudential soundness while enhancing operational efficiency. The effects are heterogeneous by net interest margins. Conventional macroprudential policies, however, fail to contain these new systemic risks. Our findings call for regulatory frameworks that dynamically adapt to rapid technological change in finance.

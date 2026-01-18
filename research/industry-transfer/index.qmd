@@ -41,3 +41,18 @@ Industry transfer is often seen as a barrier to urban green growth. Using city-l
 ![Figure 2: Spatial trajectory of SEI transfer](fig.png){fig-align="center" width="80%"}
 
 :::
+
+## BibTeX citation
+
+```bibtex
+@article{Liang_2026,
+  title   = {Industry transfer and urban green growth: Asymmetric spillovers and nonlinear thresholds},
+  author  = {Liang, Shuang and Wang, Shuguang},
+  journal = {Cleaner and Responsible Consumption},
+  volume  = {21},
+  pages   = {100387},
+  year    = {2026},
+  doi     = {10.1016/j.clrc.2026.100387},
+}
+
+```

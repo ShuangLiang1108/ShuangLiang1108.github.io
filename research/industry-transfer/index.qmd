@@ -1,7 +1,7 @@
 ---
 title: Industry Transfer and Urban Green Growth
 subtitle: Asymmetric Spillovers and Nonlinear Thresholds
-date: 2025-06-11
+date: 2026-01-10
 authors:
   - name: Shuang Liang
     url: "{{< var website-url >}}"
@@ -12,9 +12,22 @@ authors:
     affiliation: Peking University
 categories:
   - Other
-status: working-papers
+status: publications
 image: fig.png
 feature: true
+pub-info:
+  journal: Cleaner and Responsible Consumption
+  volume: 21
+  pages: 100387
+  year: 2026
+  links:
+    - name: ScienceDirect
+      url: https://www.sciencedirect.com/science/article/pii/S266678432600001X?via%3Dihub=
+      icon: fa-solid fa-file-pdf
+pub-status: 
+  status: Published
+  class: success
+  icon: fa-solid fa-check
 ---
 
 ## Abstract

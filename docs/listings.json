@@ -10,9 +10,9 @@
   {
     "listing": "/about/index.html",
     "items": [
+      "/research/industry-transfer/index.html",
       "/research/bank-ai/index.html",
       "/research/bank-fintech/index.html",
-      "/research/industry-transfer/index.html",
       "/research/uri-collective/index.html",
       "/research/vc-patience/index.html",
       "/research/ppf-bank/index.html",
@@ -35,9 +35,9 @@
   {
     "listing": "/research/index.html",
     "items": [
+      "/research/industry-transfer/index.html",
       "/research/bank-ai/index.html",
       "/research/bank-fintech/index.html",
-      "/research/industry-transfer/index.html",
       "/research/uri-collective/index.html",
       "/research/vc-patience/index.html",
       "/research/ppf-bank/index.html"

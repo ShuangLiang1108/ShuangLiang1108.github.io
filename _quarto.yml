@@ -29,7 +29,7 @@ website:
         href: /static/cv/cv.pdf
   page-footer:
     left: |
-      <span class="faux-block">{{< fa copyright >}} 2025 Shuang Liang</span>
+      <span class="faux-block">{{< fa copyright >}} 2026 Shuang Liang</span>
       <span class="faux-block">{{< fa brands orcid >}} <strong>ORCID</strong> [{{< var orcid >}}](https://orcid.org/{{< var orcid >}})</span>
     center: |
       <span class="faux-block">[{{< fa brands github >}}]({{< var github-url >}})</span>
